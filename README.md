@@ -1,1 +1,1 @@
-# Wuola
+# AnimeHub Fullstack App
